@@ -28,6 +28,11 @@
             "name": "Test",
             "tier": 4,
             "decks": []
+        },
+        {
+            "name": "Soft",
+            "tier": 5,
+            "decks": []
         }
     ],
     "min_sleeve_tier": 1,
