@@ -530,7 +530,12 @@
     {
       "name": "Piano Walrus",
       "tier": 4,
-      "decks": []
+      "decks": [
+        {
+          "archetype": "Synchron",
+          "id": "test!!!"
+        }
+      ]
     }
   ]
 }
