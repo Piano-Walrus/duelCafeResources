@@ -527,5 +527,7 @@
         }
       ]
     }
-  ]
+  ],
+  "min_sleeve_tier": 1,
+  "min_deck_tier": 0
 }
