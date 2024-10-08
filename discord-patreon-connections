@@ -1,1 +1,8 @@
-
+{
+  members: [
+    {
+      discord: "piano walrus",
+      vrchat: "Piano Walrus"
+    }
+  ]
+}
