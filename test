@@ -545,7 +545,12 @@
     {
       "name": "Cardoo",
       "tier": 4,
-      "decks": []
+      "decks": [
+        {
+          "archetype": "Ghoti",
+          "id": "2511!!!"
+        }
+      ]
     }
   ],
   "min_sleeve_tier": 1,
