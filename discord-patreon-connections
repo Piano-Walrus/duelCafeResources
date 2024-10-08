@@ -1,8 +1,8 @@
 {
-  members: [
+  "members": [
     {
-      discord: "piano walrus",
-      vrchat: "Piano Walrus"
+      "discord": "piano walrus",
+      "vrchat": "Piano Walrus"
     }
   ]
 }
