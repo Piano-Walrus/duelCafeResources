@@ -538,7 +538,12 @@
     {
       "name": "Piano Walrus",
       "tier": 3,
-      "decks": []
+      "decks": [
+        {
+          "archetype": "Test",
+          "id": "2511!!!"
+        }
+      ]
     }
   ],
   "min_sleeve_tier": 1,
