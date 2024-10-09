@@ -530,7 +530,12 @@
     {
       "name": "notmyuserpartatleast2",
       "tier": 4,
-      "decks": []
+      "decks": [
+        {
+          "archetype": "Vaalmonica",
+          "id": "ydke://fWBgAX1gYAF9YGABQIUuAECFLgBAhS4Az1zQAc9c0AHPXNAB1xqfAdcanwGvI94AryPeAJmIVQCZiFUAmYhVAObSgwLm0oMC5tKDAndn5wN3Z+cDzFZLAsxWSwLMVksChU9WAoVPVgKFT1YCj/cEBR43ggFvvjEEPqRxAT866gPBVXcFRQTgBcWp2gQiSJkAIkiZACJImQAe7kUAuenZBQ==!7nIUALMylASzMpQEyPQqAMj0KgDaI+sDxEQhBaSaKwC/DkkCmlUSAl9MZgXdP+8D0htBATwjoAWXIWQF!OLFjBDixYwQpCxoD4VidA+FYnQPhWJ0DwVV3BcFVdwXCx3IBJpBCAyaQQgOEJX4AhCV+APvcFAHg1ucB!"
+        }
+      ]
     }
   ],
   "min_sleeve_tier": 1,
