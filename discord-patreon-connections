@@ -1,12 +1,16 @@
 {
   "members": [
     {
-      "discord": "reyzx",
-      "vrchat": "ReyzX"
+      "discord": "pianowalrus",
+      "vrchat": "Piano Walrus"
     },
     {
       "discord": "cardoopy",
       "vrchat": "Cardoo"
+    },
+    {
+      "discord": "reyzx",
+      "vrchat": "ReyzX"
     },
     {
       "discord": "spider9pocky",
@@ -35,10 +39,6 @@
     {
       "discord": "firegator",
       "vrchat": "FireyGator"
-    },
-    {
-      "discord": "pianowalrus",
-      "vrchat": "Piano Walrus"
     },
     {
       "discord": "nunyabezwacks",
@@ -103,18 +103,6 @@
     {
       "discord": "zero_the_vengeful_wolf",
       "vrchat": "Zero the Wolf"
-    },
-    {
-      "discord": "zero_the_vengeful_wolf",
-      "vrchat": "Zero the Wolf"
-    },
-    {
-      "discord": "zero_the_vengeful_wolf",
-      "vrchat": "Zero the Wolf"
-    },
-    {
-      "discord": "pianowalrus",
-      "vrchat": "Piano Walrus"
     }
   ]
 }
