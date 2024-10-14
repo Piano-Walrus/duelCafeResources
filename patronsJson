@@ -474,6 +474,11 @@
       "name": "Zero the Wolf",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Piano Walrus",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
