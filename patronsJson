@@ -505,6 +505,11 @@
       "name": "Alladwarf",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "『MetalMordred』",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
