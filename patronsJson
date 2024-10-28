@@ -471,6 +471,11 @@
       "name": "FrayPanacea",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Tenko Haruna",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
