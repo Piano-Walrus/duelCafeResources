@@ -484,6 +484,11 @@
       "name": "Neurofunkx",
       "tier": 3,
       "decks": []
+    },
+    {
+      "name": "Piano Walrus",
+      "tier": 2,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
