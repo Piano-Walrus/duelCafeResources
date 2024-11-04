@@ -1,6 +1,10 @@
 {
   "members": [
     {
+      "discord": "pianowalrus",
+      "vrchat": "Piano Walrus"
+    },
+    {
       "discord": "cardoopy",
       "vrchat": "Cardoo"
     },
@@ -147,10 +151,6 @@
     {
       "discord": "tenkoharuna",
       "vrchat": "Tenko Haruna"
-    },
-    {
-      "discord": "pianowalrus",
-      "vrchat": "Piano Walrus"
     },
     {
       "discord": "anputvt",
