@@ -4,6 +4,11 @@
       "name": "Cardoo",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Piano Walrus",
+      "tier": 2,
+      "decks": []
     }
   ]
 }
