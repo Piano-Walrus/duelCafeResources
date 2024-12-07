@@ -72,7 +72,7 @@
     },
     {
       "name": "AnputVT",
-      "tier": 1,
+      "tier": 2,
       "decks": [
         {
           "archetype": "Runick Control",
