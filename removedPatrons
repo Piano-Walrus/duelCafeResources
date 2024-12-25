@@ -1,11 +1,6 @@
 {
   "patrons": [
     {
-      "name": "Cardoo",
-      "tier": 1,
-      "decks": []
-    },
-    {
       "name": "ReyzX",
       "tier": 2,
       "decks": [
