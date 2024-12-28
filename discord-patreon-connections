@@ -37,10 +37,6 @@
       "vrchat": "Nunya Bezwacks"
     },
     {
-      "discord": "baptismoffire",
-      "vrchat": "Baptism of Fire"
-    },
-    {
       "discord": "saitura",
       "vrchat": "Saitura"
     },
@@ -367,6 +363,10 @@
     {
       "discord": "autumnfluffybunny",
       "vrchat": "GummyBunny66"
+    },
+    {
+      "discord": "baptismoffire",
+      "vrchat": "Baptism of Fire"
     }
   ]
 }
