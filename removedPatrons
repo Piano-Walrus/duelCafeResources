@@ -223,6 +223,11 @@
       "name": "Miyu黒魔女",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Cardoo",
+      "tier": 1,
+      "decks": []
     }
   ]
 }
