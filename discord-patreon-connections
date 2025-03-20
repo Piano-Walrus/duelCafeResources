@@ -205,10 +205,6 @@
       "vrchat": "Keomii"
     },
     {
-      "discord": ".isakkun",
-      "vrchat": "isak-kun21"
-    },
-    {
       "discord": "tokiru",
       "vrchat": "Tokiru"
     },
@@ -483,6 +479,10 @@
     {
       "discord": "godofdeath0573",
       "vrchat": "༒沈黙の王༒"
+    },
+    {
+      "discord": ".isakkun",
+      "vrchat": "Error: Could not find username. Please contact <@163746368316375041>"
     }
   ]
 }
