@@ -445,10 +445,6 @@
       "vrchat": "SkyFire Nyx"
     },
     {
-      "discord": "skibidirizzzlord",
-      "vrchat": "speedy frr"
-    },
-    {
       "discord": "pianowalrus",
       "vrchat": "Piano Walrus"
     },
@@ -495,6 +491,10 @@
     {
       "discord": "ameserite",
       "vrchat": "Ameserite"
+    },
+    {
+      "discord": "skibidirizzzlord",
+      "vrchat": "speedy frr"
     }
   ]
 }
