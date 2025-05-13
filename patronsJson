@@ -561,6 +561,11 @@
       "name": "Slowblackdragon",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Starchaser3",
+      "tier": 0,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
