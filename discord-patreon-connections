@@ -441,10 +441,6 @@
       "vrchat": "SkyFire Nyx"
     },
     {
-      "discord": "pianowalrus",
-      "vrchat": "Piano Walrus"
-    },
-    {
       "discord": "darkeyes2816",
       "vrchat": "LiberatedOwl"
     },
@@ -523,6 +519,10 @@
     {
       "discord": "starchaser2",
       "vrchat": "Starchaser3"
+    },
+    {
+      "discord": "pianowalrus",
+      "vrchat": "Piano Walrus"
     }
   ]
 }
