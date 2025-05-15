@@ -527,6 +527,10 @@
     {
       "discord": "readable_sentence",
       "vrchat": "Readable_Book"
+    },
+    {
+      "discord": "thunder_39",
+      "vrchat": "Thunder6839"
     }
   ]
 }
