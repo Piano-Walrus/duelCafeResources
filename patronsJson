@@ -551,6 +551,11 @@
       "name": "SouloS",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Shaddoll Killz",
+      "tier": 3,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
