@@ -556,6 +556,11 @@
       "name": "ZERO_L101",
       "tier": 3,
       "decks": []
+    },
+    {
+      "name": "CamiGirlboss",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
