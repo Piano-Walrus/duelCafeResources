@@ -433,6 +433,11 @@
       "name": "MochiDX",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Shaddoll Killz",
+      "tier": 3,
+      "decks": []
     }
   ]
 }
