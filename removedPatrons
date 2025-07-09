@@ -408,6 +408,11 @@
       "name": "Sypheonix",
       "tier": 0,
       "decks": []
+    },
+    {
+      "name": "天空女神Sayaka",
+      "tier": 1,
+      "decks": []
     }
   ]
 }
