@@ -2,7 +2,7 @@
     [
         {
             "id":3048768,
-            "$pref":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=2",
+            "$pref":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=",
             "$suff":"¬target=30432463¬place=1",
             "$msg":"Resolve $name's effect?",
             "commands":[
