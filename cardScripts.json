@@ -172,13 +172,61 @@
     ],
     [
         {
+            "id":7336745,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Pay the cost for this card's effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":26631975,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Pay the cost for this card's effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
+                    ]
+                }
+            ]
+        },
+        {
             "id":40605147,
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "msg":"Pay the cost for $name's effect?",
+                    "msg":"Pay the cost for this card's effect?",
                     "options":[
                         "label=Pay 1500 LP¬add_exact_lp=-1500"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":41420027,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Pay the cost for this card's effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":52807032,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Pay the cost for this card's effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
                     ]
                 }
             ]
@@ -188,7 +236,31 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "msg":"Pay the cost for $name's effect?",
+                    "msg":"Pay the cost for this card's effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":84968490,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Resolve this card's effect?",
+                    "options":[
+                        "label=Send the top 5 cards of your Deck to the GY¬source=0¬dest=2¬rand=5"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":99414629,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Pay the cost for this card's effect?",
                     "options":[
                         "label=Pay half your LP¬div_lp=2"
                     ]
