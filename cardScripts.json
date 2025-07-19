@@ -34,7 +34,7 @@
                     ]
                 },
                 {
-                    "trigger_list":[2],
+                    "trigger":2,
                     "message":"Resolve $name's GY effect?",
                     "options":[
                         "label=Send the top 2 cards of your Deck to the GY¬source=0¬dest=2¬rand=2"
