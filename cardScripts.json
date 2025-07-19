@@ -46,6 +46,31 @@
     ],
     [
         {
+            "id":48832775,
+            "$suff":" from your GY¬search=2",
+            "commands":[
+                {
+                    "msg":"Pay the cost for this card's Quick Effect?",
+                    "options":[
+                        "label=Pay half your LP and banish 1 \"Dinomorphia\" Normal Trap$suff¬div_lp=2"
+                    ]
+                },
+                {
+                    "conditions":{
+                        "OR":[
+                            {"prev_range":[10,14]},
+                            {"prev_list":[8,108]}
+                        ]
+                    },
+                    "trigger":2,
+                    "msg":"Activate this card's GY effect?",
+                    "options":[
+                        "label=Special Summon 1 Level 4 or lower \"Dinomorphia\" monster$suff"
+                    ]
+                }
+            ]
+        },
+        {
             "id":92731385,
             "commands":[
                 {
