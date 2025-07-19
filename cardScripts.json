@@ -2,22 +2,22 @@
     [
         {
             "id":3048768,
-            "$prefix":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=2",
-            "$suffix":"¬target=30432463¬place=1",
-            "$message":"Resolve $name's effect?"
+            "$pref":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=2",
+            "$suff":"¬target=30432463¬place=1",
+            "$msg":"Resolve $name's effect?"
             "commands":[
                 {
                     "trigger_list":[23],
-                    "message":"$message",
+                    "message":"$msg",
                     "options":[
-                        "$prefix4$suffix"
+                        "$pref4$suff"
                     ]
                 },
                 {
                     "trigger_list":[24],
-                    "message":"$message",
+                    "message":"$msg",
                     "options":[
-                        "$prefix3$suffix"
+                        "$pref3$suff"
                     ]
                 }
             ]
