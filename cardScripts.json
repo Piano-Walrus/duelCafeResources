@@ -7,14 +7,14 @@
             "$msg":"Resolve $name's effect?"
             "commands":[
                 {
-                    "trigger_list":[23],
+                    "trigger":23,
                     "message":"$msg",
                     "options":[
                         "$pref4$suff"
                     ]
                 },
                 {
-                    "trigger_list":[24],
+                    "trigger":24,
                     "message":"$msg",
                     "options":[
                         "$pref3$suff"
