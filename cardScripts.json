@@ -143,6 +143,19 @@
             ]
         },
         {
+            "id":31562086,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Resolve this card's effect?",
+                    "options":[
+                        "label=Add 1 \"Runick\" card from your Deck, then Banish 1 card from your opponent's deck¬search=0¬opp¬source=0¬dest=3¬rand=1",
+                        "label=Special Summon 1 \"Runick\" Monster from your Extra Deck¬search=1"
+                    ]
+                }
+            ]
+        },
+        {
             "id":38199696,
             "commands":[
                 {
