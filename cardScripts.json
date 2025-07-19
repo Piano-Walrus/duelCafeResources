@@ -81,6 +81,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "id":92798873,
+            "commands":[
+                {
+                    "msg":"Pay the cost for this card's Quick Effect?",
+                    "options":[
+                        "label=Pay half your LP¬div_lp=2"
+                    ]
+                },
+                {
+                    "conditions":{
+                        "OR":[
+                            {"prev_range":[10,14]},
+                            {"prev_list":[8,108]}
+                        ]
+                    },
+                    "trigger":2,
+                    "msg":"Activate this card's GY effect?",
+                    "options":[
+                        "label=Special Summon 1 Level 6 or lower \"Dinomorphia\" monster from your GY¬search=2"
+                    ]
+                }
+            ]
         }
     ],
     [
@@ -92,6 +116,18 @@
                     "msg":"Resolve $name's effect?",
                     "options":[
                         "label=Gain 400 LP¬add_lp=400"
+                    ]
+                }
+            ]
+        },
+        {
+            "id":38199696,
+            "commands":[
+                {
+                    "trigger_range":[20,24],
+                    "msg":"Resolve $name's effect?",
+                    "options":[
+                        "label=Gain 500 LP¬add_lp=500"
                     ]
                 }
             ]
