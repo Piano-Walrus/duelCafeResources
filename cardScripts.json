@@ -10,14 +10,14 @@
                     "trigger":23,
                     "message":"$msg",
                     "options":[
-                        "$pref4$suff"
+                        "$pref{$trigger+1}$suff"
                     ]
                 },
                 {
                     "trigger":24,
                     "message":"$msg",
                     "options":[
-                        "$pref3$suff"
+                        "$pref{$trigger-1}$suff"
                     ]
                 }
             ]
