@@ -5,14 +5,14 @@
             "commands":[
                 {
                     "trigger_list":[23],
-                    "message":"Resolve this card's effect?",
+                    "message":"Resolve $name's effect?",
                     "options":[
                         "label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=24¬target=30432463¬place=1"
                     ]
                 },
                 {
                     "trigger_list":[24],
-                    "message":"Resolve this card's effect?",
+                    "message":"Resolve $name's effect?",
                     "options":[
                         "label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=23¬target=30432463¬place=1"
                     ]
@@ -32,7 +32,7 @@
                 },
                 {
                     "trigger_list":[2],
-                    "message":"Resolve this card's GY effect?",
+                    "message":"Resolve $name's GY effect?",
                     "options":[
                         "label=Send the top 2 cards of your Deck to the GY¬source=0¬dest=2¬rand=2"
                     ]
@@ -46,7 +46,7 @@
             "commands":[
                 {
                     "trigger_list":[2],
-                    "message":"Resolve this card's effect?",
+                    "message":"Resolve $name's effect?",
                     "options":[
                         "label=Send 5 cards from your Deck to the GY¬source=0¬dest=2¬rand=5"
                     ]
@@ -60,7 +60,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Resolve this card's effect?",
+                    "message":"Resolve $name's effect?",
                     "options":[
                         "label=Gain 400 LP¬add_lp=400"
                     ]
@@ -88,7 +88,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Pay the cost for this card's effect?",
+                    "message":"Pay the cost for $name's effect?",
                     "options":[
                         "label=Pay 1500 LP¬add_exact_lp=-1500"
                     ]
@@ -100,7 +100,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Pay the cost for this card's effect?",
+                    "message":"Pay the cost for $name's effect?",
                     "options":[
                         "label=Pay half your LP¬div_lp=2"
                     ]
