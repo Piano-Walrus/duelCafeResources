@@ -72,13 +72,14 @@
         },
         {
             "id":42193638,
+            "$pref":"label=Gain 500 LP",
             "commands":[
                 {
                     "trigger_range":[20,24],
                     "message":"Gain LP or take damage to resolve one of $name's effects?",
                     "options":[
-                        "label=Gain 500 LP only¬add_lp=500",
-                        "label=Gain 500 LP, then excavate cards until you excavate a Vaalmonica card, then add that card to your hand¬source=0¬add_lp=500¬excavate_until=Vaalmonica",
+                        "$pref only¬add_lp=500",
+                        "$pref, then excavate cards until you excavate a Vaalmonica card, then add that card to your hand¬source=0¬add_lp=500¬excavate_until=Vaalmonica",
                         "label=Take 500 damage & open Main Deck¬search=0¬add_lp=-500"
                     ]
                 }
