@@ -2,19 +2,21 @@
     [
         {
             "id":3048768,
+            "global_prefix":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=2",
+            "global_suffix":"¬target=30432463¬place=1",
             "commands":[
                 {
                     "trigger_list":[23],
                     "message":"Resolve $name's effect?",
                     "options":[
-                        "label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=24¬target=30432463¬place=1"
+                        "4"
                     ]
                 },
                 {
                     "trigger_list":[24],
                     "message":"Resolve $name's effect?",
                     "options":[
-                        "label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=23¬target=30432463¬place=1"
+                        "3"
                     ]
                 }
             ]
