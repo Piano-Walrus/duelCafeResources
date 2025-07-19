@@ -24,20 +24,21 @@
         },
         {
             "id":4928565,
+            "$piles":"¬source=0¬dest=2¬",
             "commands":[
                 {
                     "trigger_range":[10,14],
                     "message":"Send cards from a player's Deck to the GY?",
                     "options":[
-                        "label=Your Deck¬source=0¬dest=2¬rand=3",
-                        "label=Opponent's Deck¬opp¬source=0¬dest=2¬rand=3"
+                        "label=Your Deck$pilesrand=3",
+                        "label=Opponent's Deck¬opp$pilesrand=3"
                     ]
                 },
                 {
                     "trigger":2,
                     "message":"Resolve $name's GY effect?",
                     "options":[
-                        "label=Send the top 2 cards of your Deck to the GY¬source=0¬dest=2¬rand=2"
+                        "label=Send the top 2 cards of your Deck to the GY$pilesrand=2"
                     ]
                 }
             ]
