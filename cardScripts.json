@@ -8,14 +8,14 @@
             "commands":[
                 {
                     "trigger":23,
-                    "message":"$msg",
+                    "msg":"$msg",
                     "options":[
                         "$pref{$trigger+1}$suff"
                     ]
                 },
                 {
                     "trigger":24,
-                    "message":"$msg",
+                    "msg":"$msg",
                     "options":[
                         "$pref{$trigger-1}$suff"
                     ]
@@ -28,7 +28,7 @@
             "commands":[
                 {
                     "trigger_range":[10,14],
-                    "message":"Send cards from a player's Deck to the GY?",
+                    "msg":"Send cards from a player's Deck to the GY?",
                     "options":[
                         "label=Your Deck$pilesrand=3",
                         "label=Opponent's Deck¬opp$pilesrand=3"
@@ -36,7 +36,7 @@
                 },
                 {
                     "trigger":2,
-                    "message":"Resolve $name's GY effect?",
+                    "msg":"Resolve $name's GY effect?",
                     "options":[
                         "label=Send the top 2 cards of your Deck to the GY$pilesrand=2"
                     ]
@@ -50,7 +50,7 @@
             "commands":[
                 {
                     "trigger_list":[2],
-                    "message":"Resolve $name's effect?",
+                    "msg":"Resolve $name's effect?",
                     "options":[
                         "label=Send 5 cards from your Deck to the GY¬source=0¬dest=2¬rand=5"
                     ]
@@ -64,7 +64,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Resolve $name's effect?",
+                    "msg":"Resolve $name's effect?",
                     "options":[
                         "label=Gain 400 LP¬add_lp=400"
                     ]
@@ -77,7 +77,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Gain LP or take damage to resolve one of $name's effects?",
+                    "msg":"Gain LP or take damage to resolve one of $name's effects?",
                     "options":[
                         "$pref only¬add_lp=500",
                         "$pref, then excavate cards until you excavate a Vaalmonica card, then add that card to your hand¬source=0¬add_lp=500¬excavate_until=Vaalmonica",
@@ -93,7 +93,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Pay the cost for $name's effect?",
+                    "msg":"Pay the cost for $name's effect?",
                     "options":[
                         "label=Pay 1500 LP¬add_exact_lp=-1500"
                     ]
@@ -105,7 +105,7 @@
             "commands":[
                 {
                     "trigger_range":[20,24],
-                    "message":"Pay the cost for $name's effect?",
+                    "msg":"Pay the cost for $name's effect?",
                     "options":[
                         "label=Pay half your LP¬div_lp=2"
                     ]
