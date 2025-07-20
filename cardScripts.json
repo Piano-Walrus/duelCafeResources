@@ -193,7 +193,7 @@
                     "msg":"Resolve one of $name's effects?",
                     "options":[
                         "label=Special Summon 1 \"Vaalmonica\" monster from your Deck¬search=0",
-                        "label=Take 2 \"Vaalmonica\" Pendulum Monsters with different names from your Deck, add 1 to your hand, and add the other to your face-up Extra Deck¬conditional¬source=0¬target=3048768¬add=1¬target=30432463¬add=1"
+                        "label=Take 2 \"Vaalmonica\" Pendulum Monsters with different names from your Deck, add 1 to your hand, and add the other to your face-up Extra Deck¬condition=0¬source=0¬target=3048768¬add=1¬target=30432463¬add=1"
                     ]
                 }
             ]
