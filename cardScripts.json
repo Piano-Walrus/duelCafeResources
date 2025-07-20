@@ -252,7 +252,7 @@
                     "options":[
                         "label=Pay LP so that your LP equal your opponent's¬set_lp=$lp_opp"
                     ]
-                },
+                }
             ]
         }
         {
