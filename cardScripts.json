@@ -168,6 +168,37 @@
             ]
         },
         {
+            "id":38491852,
+            "commands":[
+                {
+                    "conditions":{
+                        [
+                            "OR":[
+                                {
+                                    "control_self":"Vaalmonican",
+            						"zone_range":[10,14]
+                                },
+                                {
+                                    "control_self":"Vaalmonican",
+            						"zone_list":[8,108]
+                                },
+                                {
+                                    "control_self":23093373,
+            						"zone_range":[10,14]
+                                }
+                            ]
+                        ]
+                    },
+                    "trigger_range":[20,24],
+                    "msg":"Resolve one of $name's effects?",
+                    "options":[
+                        "label=Special Summon 1 \"Vaalmonica\" monster from your Deck¬search=0",
+                        "label=Take 2 \"Vaalmonica\" Pendulum Monsters with different names from your Deck, add 1 to your hand, and add the other to your face-up Extra Deck¬conditional¬source=0¬target=3048768¬add=1¬target=30432463¬add=1"
+                    ]
+                }
+            ]
+        }
+        {
             "id":42193638,
             "$pref":"label=Gain 500 LP",
             "commands":[
