@@ -240,6 +240,22 @@
             ]
         },
         {
+            "id":28265983,
+            "commands":[
+                {
+                    "conditions":{
+                        "OR":[
+                            {"lp_self":["{$lp_opp+2999}",-1]},
+                        ]
+                    }
+                    "msg":"Pay the cost for this card's 2nd effect?",
+                    "options":[
+                        "label=Pay LP so that your LP equal your opponent's¬add_lp=-{$lp_self-$lp_opp}"
+                    ]
+                },
+            ]
+        }
+        {
             "id":40605147,
             "commands":[
                 {
