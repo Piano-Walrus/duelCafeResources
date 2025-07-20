@@ -245,12 +245,12 @@
                 {
                     "conditions":{
                         "OR":[
-                            {"lp_self":["{$lp_opp+2999}",-1]},
+                            {"lp_opp":[0, "{$lp_self-3000}"]},
                         ]
                     }
                     "msg":"Pay the cost for this card's 2nd effect?",
                     "options":[
-                        "label=Pay LP so that your LP equal your opponent's¬add_lp=-{$lp_self-$lp_opp}"
+                        "label=Pay LP so that your LP equal your opponent's¬set_lp=$lp_opp"
                     ]
                 },
             ]
