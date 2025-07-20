@@ -176,15 +176,15 @@
                             "OR":[
                                 {
                                     "control_self":"Vaalmonican",
-            						"zone_range":[10,14]
+                                    "zone_range":[10,14]
                                 },
                                 {
                                     "control_self":"Vaalmonican",
-            						"zone_list":[8,108]
+                                    "zone_list":[8,108]
                                 },
                                 {
                                     "control_self":23093373,
-            						"zone_range":[10,14]
+                                    "zone_range":[10,14]
                                 }
                             ]
                         ]
