@@ -245,7 +245,7 @@
                 {
                     "conditions":{
                         "OR":[
-                            {"lp_opp":[0, "{$lp_self-3000}"]},
+                            {"lp_opp":[0, "{$lp_self-3000}"]}
                         ]
                     }
                     "msg":"Pay the cost for this card's 2nd effect?",
