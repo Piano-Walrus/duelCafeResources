@@ -65,6 +65,11 @@
             "id":36326160,
             "commands":[
                 {
+                    "conditions":{
+                        "NOT":[
+                            "control_self":0
+                        ]
+                    },
                     "trigger_zone":[10,14],
                     "msg":"Resolve $name's on-summon effect?",
                     "options":[
@@ -83,6 +88,11 @@
             "id":73810864,
             "commands":[
                 {
+                    "conditions":{
+                        "NOT":[
+                            "control_self":0
+                        ]
+                    },
                     "trigger_zone":[10,14],
                     "msg":"Resolve $name's on-summon effect?",
                     "options":[
