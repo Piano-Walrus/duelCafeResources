@@ -4,18 +4,16 @@
             "id":3048768,
             "$pref":"label=Scale \"Dimonno Vaalmonica\" in your other Pendulum Zone¬source=0¬dest=",
             "$suff":"¬target=30432463¬place=1",
-            "$msg":"Resolve $name's effect?",
+            "msg":"Resolve $name's effect?",
             "commands":[
                 {
                     "trigger":23,
-                    "msg":"$msg",
                     "options":[
                         "$pref24$suff"
                     ]
                 },
                 {
                     "trigger":24,
-                    "msg":"$msg",
                     "options":[
                         "$pref23$suff"
                     ]
