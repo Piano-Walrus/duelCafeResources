@@ -167,8 +167,8 @@
             "id":38491852,
             "commands":[
                 {
-                    "conditions":{
-                        [
+                    "conditions":[
+                        {
                             "OR":[
                                 {
                                     "control_self":"Vaalmonican",
@@ -183,8 +183,8 @@
                                     "zone_range":[10,14]
                                 }
                             ]
-                        ]
-                    },
+                        }
+                    ],
                     "trigger_range":[20,24],
                     "msg":"Resolve one of $name's effects?",
                     "options":[
