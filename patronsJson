@@ -571,6 +571,11 @@
       "name": "SiriusNova45",
       "tier": 2,
       "decks": []
+    },
+    {
+      "name": "天空女神Sayaka",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
