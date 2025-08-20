@@ -1,5 +1,7 @@
 {
   "close":[],
   "kick":[],
+  "close_reason":"Test Close",
+  "kick_reason":"Test Kick",
   "time":0
 }
