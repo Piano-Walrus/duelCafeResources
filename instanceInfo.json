@@ -1,1 +1,1 @@
-{"close":[],"kick":[],"close_reason":"Test Reason","kick_reason":"Test Kick"}
+{"close":["TestName","TestName2"],"kick":[],"close_reason":"TestReason","kick_reason":"Test Kick"}
