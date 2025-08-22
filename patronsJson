@@ -599,6 +599,11 @@
       "name": "razzledazzler",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Orphan_the_rat",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
