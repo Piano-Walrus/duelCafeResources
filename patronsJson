@@ -584,5 +584,10 @@
     }
   ],
   "min_sleeve_tier": 1,
-  "min_deck_tier": 0
+  "min_deck_tier": 0,
+  "winner_info":{
+    "user":"test name",
+    "deck_name":"test deck",
+    "deck_id":";2511!!!"
+  }
 }
