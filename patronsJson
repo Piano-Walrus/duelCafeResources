@@ -586,6 +586,11 @@
       "name": "Ja2on",
       "tier": 0,
       "decks": []
+    },
+    {
+      "name": "Gambie",
+      "tier": 3,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
