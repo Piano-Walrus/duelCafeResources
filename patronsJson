@@ -589,6 +589,11 @@
       "name": "Sypheonix",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Aoi Husky",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
