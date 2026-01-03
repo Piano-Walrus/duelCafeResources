@@ -557,7 +557,7 @@
     },
     {
       "name": "LSLostSouls",
-      "tier": 0,
+      "tier": 1,
       "decks": [
         {
           "archetype": "Pure Odd-Eyes",
