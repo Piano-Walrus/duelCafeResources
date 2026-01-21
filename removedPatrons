@@ -594,6 +594,11 @@
       "name": "天空女神Sayaka",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Sora VR",
+      "tier": 2,
+      "decks": []
     }
   ]
 }
