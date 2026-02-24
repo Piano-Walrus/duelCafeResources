@@ -664,6 +664,11 @@
       "name": "Chimera Works",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Tao_Drifter",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
