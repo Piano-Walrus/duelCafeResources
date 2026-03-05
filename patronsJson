@@ -639,6 +639,11 @@
       "name": "MoonNightUmber",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "AriTheOrangeCat",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
