@@ -626,6 +626,11 @@
       "name": "AriTheOrangeCat",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Bott1ed_Thyme",
+      "tier": 0,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
