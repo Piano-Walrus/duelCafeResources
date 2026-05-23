@@ -645,10 +645,6 @@
       "vrchat": "ThePacifistRatt"
     },
     {
-      "discord": "lsarmy",
-      "vrchat": "LSLostSouls"
-    },
-    {
       "discord": "cheesecat0872",
       "vrchat": "Sypheonix"
     },
@@ -807,6 +803,10 @@
     {
       "discord": "vanpid_",
       "vrchat": "Vanpid_"
+    },
+    {
+      "discord": "lsarmy",
+      "vrchat": "Lost Souls"
     }
   ]
 }
