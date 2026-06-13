@@ -818,6 +818,11 @@
       "name": "SouloS",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "Luna Jackalope",
+      "tier": 1,
+      "decks": []
     }
   ]
 }
