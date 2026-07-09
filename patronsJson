@@ -628,6 +628,11 @@
       "name": "High~gearKing",
       "tier": 3,
       "decks": []
+    },
+    {
+      "name": "Valor1400",
+      "tier": 1,
+      "decks": []
     }
   ],
   "min_sleeve_tier": 1,
