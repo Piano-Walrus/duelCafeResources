@@ -656,7 +656,7 @@
     },
     {
       "name": "FrayPanacea",
-      "tier": 1,
+      "tier": 3,
       "decks": [
         {
           "archetype": "structures exosisters",
