@@ -962,6 +962,11 @@
       "name": "FloatertheOtter",
       "tier": 2,
       "decks": []
+    },
+    {
+      "name": "ScarNight",
+      "tier": 0,
+      "decks": []
     }
   ]
 }
