@@ -1016,6 +1016,11 @@
       "name": "TheAbyssalKing",
       "tier": 1,
       "decks": []
+    },
+    {
+      "name": "High~gearKing",
+      "tier": 3,
+      "decks": []
     }
   ]
 }
